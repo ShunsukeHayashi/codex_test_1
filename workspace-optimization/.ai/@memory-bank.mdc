@@ -1,0 +1,27 @@
+## プロジェクトサマリ
+- プロジェクト開始日: 2025-09-26
+- 現在のイテレーション: Phase 0 (Inventory & Policy)
+- ログ基準: LDD (intent → plan → implementation → verification)
+
+## 最近の判断事項
+- 2025-09-26: `.ai/` ディレクトリとテンプレートドキュメントを初期化。
+
+## オープンな課題
+- STORY-001: `docs/inventory.md` の詳細項目 (更新日・サイズ) を追記する。
+- STORY-002: `docs/classification_policy.md` の策定と承認。
+- STORY-003 以降: `~/workspace` 作成前にバックアップ手順を確立する。
+
+## ストーリー進捗スナップショット
+- STORY-001 — status: pending — owner: unassigned
+- STORY-002 — status: pending — owner: unassigned
+- STORY-003 — status: pending — owner: unassigned
+- STORY-004 — status: pending — owner: unassigned
+- STORY-005 — status: pending — owner: unassigned
+- STORY-006 — status: pending — owner: unassigned
+
+## 検証ログ
+- (未記入) 次ストーリー完了時に更新。
+
+## 引き継ぎメモ
+- codex_prompt_chain, tool_invocations, handoff_summary を `.ai/logs/` に記録する。
+- 未決事項は上記「オープンな課題」セクションへ集約する。
