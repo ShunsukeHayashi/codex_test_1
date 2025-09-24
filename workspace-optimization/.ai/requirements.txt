@@ -1,3 +1,0 @@
-# Workspace Optimization プロジェクトの自動化スクリプト用 Python 依存関係
-# 必要に応じて `pip install -r .ai/requirements.txt` を実行する。
-# 初期状態では依存ライブラリ無し。
